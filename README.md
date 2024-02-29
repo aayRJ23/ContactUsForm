@@ -23,11 +23,3 @@ This is a simple Contact Us form web application created using ReactJS and Fireb
 
 - ReactJS
 - Firebase Realtime Database
-
-## Contributors
-
-- [Your Name](link to your GitHub profile)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
